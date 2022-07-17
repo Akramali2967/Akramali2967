@@ -8,7 +8,7 @@ I have been into development from 3 years, I try to explore every Field. I am go
 
 * 🌍  I'm based in Bangalore,India
 * ✉️  You can contact me at [akramali2967@gmail.com](mailto:akramali2967@gmail.com)
-* 🧠  I'm learning Android Development
+* 🧠  I'm learning DSA
 * ⚡  As You know you can't be only into development so I Also Do Coding(3 star At CodeChef)
 
 ### Skills
