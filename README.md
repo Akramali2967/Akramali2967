@@ -1,7 +1,7 @@
 Hi 👋 My name is Md Akram Ali
 =============================
 
-Game And Web Developer
+Game,Web And Android Developer
 ----------------------
 
 I have been into development from 3 years, I try to explore every Field. I am good in Game and Web Development I am currently exploring Mobile Development
