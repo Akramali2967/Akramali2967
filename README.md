@@ -1,15 +1,16 @@
 Hi 👋 My name is Md Akram Ali
 =============================
 
-Game,Web And Android Developer
+Game, Web And Backend Developer
 ----------------------
 
-I have been into development from 3 years, I try to explore every Field. I am good in Game and Web Development I am currently exploring Mobile Development
+I have been into development for 3 years, I try to explore every field. I am good in Game and Web Development and am currently exploring backend & payment-systems engineering — most recently a [Razorpay-inspired payment gateway backend](https://github.com/Akramali2967/payment-gateway) in Java/Spring Boot (JWT auth with refresh-token rotation, idempotent orders, optimistic locking, async webhooks, Redis rate limiting).
 
-* 🌍  I'm based in Bangalore,India
-* ✉️  You can contact me at [akramali2967@gmail.com](mailto:akramali2967@gmail.com)
-* 🧠  I'm learning DSA
-* ⚡  As You know you can't be only into development so I Also Do Coding(3 star At CodeChef)
+* 🌍  I'm based in Bangalore,India
+* ✉️  You can contact me at [akramali2967@gmail.com](mailto:akramali2967@gmail.com)
+* 🧠  I'm learning DSA
+* 🏗️  Currently building backend systems with Spring Boot, JWT auth, and Redis
+* ⚡  As You know you can't be only into development so I Also Do Coding(3 star At CodeChef)
 
 ### Skills
 
@@ -26,6 +27,7 @@ I have been into development from 3 years, I try to explore every Field. I am go
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
