@@ -1,7 +1,7 @@
 Hi 👋 My name is Md Akram Ali
 =============================
 
-Game, Web And Backend Developer
+Software Developer
 ----------------------
 
 I have been into development for 3 years, I try to explore every field. I am good in Game and Web Development and am currently exploring backend & payment-systems engineering — most recently a [Razorpay-inspired payment gateway backend](https://github.com/Akramali2967/payment-gateway) in Java/Spring Boot (JWT auth with refresh-token rotation, idempotent orders, optimistic locking, async webhooks, Redis rate limiting).
